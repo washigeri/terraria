@@ -1,4 +1,4 @@
-FROM ubuntu:14.04.4
+FROM armv7/armhf-ubuntu:14.04.3
 
 MAINTAINER Ryan Sheehan <rsheehan@gmail.com>
 
